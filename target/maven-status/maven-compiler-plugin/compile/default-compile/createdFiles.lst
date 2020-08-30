@@ -1,0 +1,17 @@
+com\deyang\bean\History.class
+com\deyang\controller\Controller.class
+com\deyang\controller\RoleController.class
+com\deyang\controller\BookController.class
+com\deyang\controller\UserController.class
+com\deyang\service\IRoleServiceImpl.class
+com\deyang\service\IUserServiceImpl.class
+com\deyang\dao\IUserDao.class
+com\deyang\bean\Role.class
+com\deyang\dao\IRoleDao.class
+com\deyang\dao\IBookDao.class
+com\deyang\service\IBookServiceImpl.class
+com\deyang\service\IBookService.class
+com\deyang\bean\Book.class
+com\deyang\service\IUserService.class
+com\deyang\bean\User.class
+com\deyang\service\IRoleService.class
